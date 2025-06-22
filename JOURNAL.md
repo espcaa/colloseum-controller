@@ -1,3 +1,10 @@
+---
+title: "Colloseum controller"
+author: "espcaa"
+description: "A controller for undercity-colloseum, a smash-like tournament game at Highway"
+created_at: "2025-06-22"
+---
+
 Total time spent: 11 hours
 
 # The mysterious and very long (no) journal of the Colloseum controller
