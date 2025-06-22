@@ -1,4 +1,4 @@
-# The Colloseum-controller 
+# The Colloseum-controller
 
 What's colloseum? Simply the greatest smash-like tournament game ever, happening @highway (https://highway.hackclub.com), a hardware hackathon at github hq
 
@@ -25,6 +25,8 @@ It uses quite a few techniques to bring down cost, everything is tht, the usb po
 | Button | 2 | 0.0466 | C22459507 |
 | Joystick | 1 | 0.40 | C37323739 |
 | PCB | 1 | 4.4 | NA |
+| M3 Nut | 4 | 0.01 | C133377 |
+| M3 Screw | 4 | .. | NA |
 
 You also need some pla/petg/whatever to 3d print the case
 The pcb can seem expensive but that's just the ENIG setup fee, we're at less than a dollar per pcb when ordering 50
